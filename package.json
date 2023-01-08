@@ -1,0 +1,22 @@
+{
+  "name": "web-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[A\u001b[A\u001b[B\u001b[B\u001b[B\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuidiH/web-backend.git"
+  },
+  "author": "reed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuidiH/web-backend/issues"
+  },
+  "homepage": "https://github.com/RuidiH/web-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
